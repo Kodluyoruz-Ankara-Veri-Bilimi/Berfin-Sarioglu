@@ -1,2 +1,2 @@
 # Berfin-Sarioglu
-class hw
+forex and hmelq files include every homework.
